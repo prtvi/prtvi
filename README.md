@@ -1,7 +1,8 @@
 <!-- <img src="assets/dino.gif" style="display: block;margin-left: auto; margin-right: auto;" width="70%" alt="Dino game gif"> -->
-<div align="center" style="font-size: 60px;">
-  <p style="display: inline;">Hi there..!</p> <img src="assets/hi.gif" width="40px">
-</div>
+
+<h1> Hi there..! <img src="assets/hi.gif" width="40px"></h1>
+
+<br>
 
 ### 🚀 About Me
 
