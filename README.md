@@ -1,12 +1,8 @@
-<img src="assets/dino.gif" style="display: block;margin-left: auto; margin-right: auto;" width="70%" alt="Dino game gif">
+<!-- <img src="assets/dino.gif" style="display: block;margin-left: auto; margin-right: auto;" width="70%" alt="Dino game gif"> -->
 
 <h2 style="text-align: center; font-size: 200%">Hi there..! <img src="assets/hi.gif" width="29px"></h2>
 
-<br>
-
-## 🚀 About Me
-
-<br>
+### 🚀 About Me
 
 💡 I'm an Electronics and Communication Engineer
 
@@ -26,20 +22,12 @@
 
 📫 Reach me [here](#%F0%9F%94%97-connect-with-me)
 
-<br>
-
-## 👩‍💻 I code in
-
-<br>
+### 👩‍💻 I code in
 
 | Python | C++ | JavaScript |
 | :----: | :-: | :--------: |
 
-<br>
-
-## Technologies & Frameworks I have worked with :
-
-<br>
+### Technologies & Frameworks I have worked with :
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -51,11 +39,7 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<br>
-
-## 🔗 Connect with me:
-
-<br>
+### 🔗 Connect with me:
 
 <a href="https://www.linkedin.com/in/prithviraj-vernekar-5830161b2/">
     <img align="left" alt="Prithviraj Vernekar | Linkedin" height="30" src="assets/linkedin.svg" />
