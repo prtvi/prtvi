@@ -1,6 +1,6 @@
 <!-- <img src="assets/dino.gif" style="display: block;margin-left: auto; margin-right: auto;" width="70%" alt="Dino game gif"> -->
 
-<p align="center" style="font-size:300%;">Hi there..! <img src="assets/hi.gif" width="30px"></p>
+<p align="center" style="font-size: 60px;">Hi there..! <img src="assets/hi.gif" width="30px"></p>
 
 ### 🚀 About Me
 
