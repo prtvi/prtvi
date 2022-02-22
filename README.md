@@ -1,6 +1,6 @@
 <!-- <img src="assets/dino.gif" style="display: block;margin-left: auto; margin-right: auto;" width="70%" alt="Dino game gif"> -->
 
-<h1 style="text-align: center;">Hi there..! <img src="assets/hi.gif" width="30px"></h1>
+<p align="center" style="text-align: center; font-size: 300%">Hi there..! <img src="assets/hi.gif" width="30px"></p>
 
 ### 🚀 About Me
 
@@ -12,13 +12,13 @@
 
 👯‍♀️ I'm looking to _collaborate_ on Web Development projects
 
-📚 I'm looking forward to learn React, Arduino and Game Dev
-
-<!-- 💬 Ask me about  -->
+📚 I'm looking forward to _learn_ React, Arduino and Game Dev
 
 👻 Tell me about conspiracy theories
 
-⚡️ Fun fact ... We don't judge a book by it's cover anymore, we judge a video by it's thumbnail
+<!-- 💬 Ask me about  -->
+
+<!-- ⚡️ Fun fact ... We live in a generation where we don't judge a book by it's cover anymore, we judge a video by it's thumbnail -->
 
 📫 Reach me [here](#connect)
 
@@ -39,7 +39,7 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<h2 id="connect"> 🔗 Connect with me </h2>
+<h3 id="connect"> 🔗 Connect with me </h3>
 
 <a href="https://www.linkedin.com/in/prithviraj-vernekar-5830161b2/">
     <img align="left" alt="Prithviraj Vernekar | Linkedin" height="30" src="assets/linkedin.svg" />
