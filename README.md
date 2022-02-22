@@ -2,8 +2,6 @@
 
 <h1> Hi there..! <img src="assets/hi.gif" width="40px"></h1>
 
-<br>
-
 ### 🚀 About Me
 
 💡 I'm an Electronics and Communication Engineer
