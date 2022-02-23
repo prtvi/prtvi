@@ -1,16 +1,24 @@
 <!-- <img src="assets/dino.gif" style="display: block;margin-left: auto; margin-right: auto;" width="70%" alt="Dino game gif"> -->
 
+<!-- INTRO -->
+
 <h1> Hi there..! <img src="assets/hi.gif" width="40px"></h1>
+
+<!-- INTRO -->
+
+<!-- -------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- ABOUT -->
 
 ### 🚀 About Me
 
 💡 I'm an Electronics and Communication Engineer
 
-👩‍💻 I'm _currently_ collaborating on full stack implementation of Smart Agricare system
+👨‍💻 I'm _currently_ collaborating on full stack implementation of Smart Agricare system
 
 🌱 I'm _currently_ learning JavaScript & Web Development
 
-👯‍♀️ I'm looking to _collaborate_ on Web Development projects
+👨‍🔧 I'm looking to _collaborate_ on Web Development projects
 
 📚 I'm looking forward to _learn_ React, Arduino and Game Dev
 
@@ -22,10 +30,22 @@
 
 📫 Reach me [here](#connect)
 
-### 👩‍💻 I code in
+<!-- ABOUT -->
+
+<!-- -------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- CODE -->
+
+### 👨‍💻 I code in
 
 | Python | C++ | JavaScript |
 | :----: | :-: | :--------: |
+
+<!-- CODE -->
+
+<!-- -------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- TECH -->
 
 ### ⚙ Technologies & Frameworks I have worked with
 
@@ -39,6 +59,11 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<!-- TECH -->
+
+<!-- -------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- CONNECT -->
 <h3 id="connect"> 🔗 Connect with me </h3>
 
 <a href="https://www.linkedin.com/in/prithviraj-vernekar-5830161b2/">
@@ -53,3 +78,4 @@
 <a href="https://instagram.com/prtviv">
   <img align="left" alt="prtviv | Instagram" height="30" src="assets/instagram.svg" />
 </a>
+<!-- CONNECT -->
