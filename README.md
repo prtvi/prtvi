@@ -5,7 +5,6 @@
 <h1> Hi there..! <img src="assets/hi.gif" width="40px"></h1>
 
 <h3> 🚀 I'm Prithviraj Vernekar </h3>
-<br>
 
 <!-- INTRO -->
 
@@ -31,9 +30,9 @@
 
 <!-- ⚡️ Fun fact ... We live in a generation where we don't judge a book by it's cover anymore, we judge a video by it's thumbnail -->
 
-📫 Reach me [here](#connect)
+📃 Check out my portfolio [here](https://prtvi.github.io/portfolio).
 
-📃 Check out my portfolio [here](https://prtvi.github.io/portfolio/).
+📫 Reach me [here](#connect)
 
 <!-- ABOUT -->
 
