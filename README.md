@@ -2,15 +2,15 @@
 
 <!-- INTRO -->
 
-<h1> Hi there..! <img src="assets/hi.gif" width="40px"></h1>
-
-<h3> 🚀 I'm Prithviraj Vernekar </h3>
+<h1> Hi there..! <code><img height="40" src="assets/hi.gif"></code></h1>
 
 <!-- INTRO -->
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 
 <!-- ABOUT -->
+
+<h3> 🚀 I'm Prithviraj Vernekar </h3>
 
 💡 I'm an Electronics and Communication Engineer
 
@@ -59,6 +59,7 @@
 
 ### ⚙ Technologies & Frameworks I have worked with
 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -69,6 +70,7 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 
 <!-- TECH -->
 
