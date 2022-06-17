@@ -2,7 +2,7 @@
 
 <!-- INTRO -->
 
-<h1> Hi there..! <code><img height="40" src="assets/hi.gif"></code></h1>
+<h1> Hi there..! <img height="40" src="assets/hi.gif"></h1>
 
 <!-- INTRO -->
 
