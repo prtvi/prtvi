@@ -16,7 +16,7 @@
 
 👨‍💻 I'm _currently_ collaborating on full stack implementation of Smart Agricare system
 
-🌱 I'm _currently_ learning JavaScript & Web Development
+🌱 I'm _currently_ learning Golang
 
 👨‍🔧 I'm looking to _collaborate_ on Web Development projects
 
@@ -40,10 +40,18 @@
 
 ### 👨‍💻 I code in
 
-| Python | C++ | JavaScript |
-| :----: | :-: | :--------: |
+| Python | JavaScript | Golang | C++ |
+| :----: | :--------: | :----: | :-: |
 
 <!-- CODE -->
+
+<!-- ------------------------------------------------------------------------------------------------- -->
+
+<!-- PROJECTS -->
+
+<!-- ### ⚒ Some of my interesting projects -->
+
+<!-- PROJECTS -->
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 
@@ -59,6 +67,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/tensorflow/tensorflow.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <!-- TECH -->
