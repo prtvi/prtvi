@@ -1,16 +1,14 @@
-<!-- <img src="assets/dino.gif" style="display: block;margin-left: auto; margin-right: auto;" width="70%" alt="Dino game gif"> -->
+<div id="intro">
+    
+<img src="assets/dino.gif" style="display: block;margin-left: auto; margin-right: auto;" width="70%" alt="Dino game gif">
 
-<!-- INTRO -->
+<h1 align="center">Hi there..! <img height="40" src="assets/hi.gif"></h1>
 
-<h1> Hi there..! <img height="40" src="assets/hi.gif"></h1>
+</div>
 
-<!-- INTRO -->
+<div id="about">
 
-<!-- ------------------------------------------------------------------------------------------------- -->
-
-<!-- ABOUT -->
-
-<h3> 🚀 I'm Prithviraj Vernekar </h3>
+<h3>🚀 I'm Prithviraj Vernekar</h3>
 
 💡 I'm an Electronics and Communication Engineer
 
@@ -32,32 +30,30 @@
 
 📫 Reach me [here](#connect)
 
-<!-- ABOUT -->
+</div>
 
-<!-- ------------------------------------------------------------------------------------------------- -->
-
-<!-- CODE -->
-
-### 👨‍💻 I code in
+<div id="codein">
+    
+<h3>👨‍💻 I code in</h3>
 
 | Python | JavaScript | Golang | C++ |
 | :----: | :--------: | :----: | :-: |
 
-<!-- CODE -->
+</div>
 
-<!-- ------------------------------------------------------------------------------------------------- -->
+<!-- <div id="projects">
 
-<!-- PROJECTS -->
+<h3>⚒ Some of my interesting projects</h3>
 
-<!-- ### ⚒ Some of my interesting projects -->
+[![prtvi](https://github-readme-stats.vercel.app/api/pin/?username=prtvi&repo=sorting-visualizer)](https://github.com/prtvi/sorting-visualizer)
 
-<!-- PROJECTS -->
+[![prtvi](https://github-readme-stats.vercel.app/api/pin/?username=prtvi&repo=mso)](https://github.com/prtvi/mso)
 
-<!-- ------------------------------------------------------------------------------------------------- -->
+</div> -->
 
-<!-- TECH -->
-
-### ⚙ Technologies & Frameworks I have worked with
+<div id="tech">
+    
+<h3>⚙ Technologies & Frameworks I have worked with</h3>
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -72,13 +68,24 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 
-<!-- TECH -->
+</div>
 
-<!-- ------------------------------------------------------------------------------------------------- -->
+<!-- PROFILE STATS (INCLUDE PVT) & ICONS -->
+<!-- TOP LANGUAGES (EXCLUDE SOME REPOS BY COMMAS) -->
 
-<!-- CONNECT -->
+<!-- <div id="stats">
+<h3>💹 Github stats</h3>
 
-<h3 id="connect"> 🔗 Connect with me </h3>
+![Prithviraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=prtvi&show_icons=true&count_private=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prtvi&exclude_repo=prtvi.github.io)](https://github.com/prtvi)
+
+</div> -->
+
+<div id="connect">
+
+<h3>🔗 Connect with me</h3>
 
 <a href="https://www.linkedin.com/in/prithviraj-vernekar-5830161b2/">
     <img align="left" alt="Prithviraj Vernekar | Linkedin" height="30" src="assets/linkedin.svg" />
@@ -93,4 +100,4 @@
   <img align="left" alt="prtviv | Instagram" height="30" src="assets/instagram.svg" />
 </a>
 
-<!-- CONNECT -->
+</div>
