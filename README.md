@@ -1,14 +1,10 @@
 <div id="intro">
     
-<img src="assets/dino.gif" style="display: block;margin-left: auto; margin-right: auto;" width="70%" alt="Dino game gif">
-
-<h1 align="center">Hi there..! <img height="40" src="assets/hi.gif"></h1>
+<h1 align="center">Hi there, I'm Prithviraj <img height="40" src="assets/hi.gif"></h1>
 
 </div>
 
 <div id="about">
-
-<h3>🚀 I'm Prithviraj Vernekar</h3>
 
 💡 I'm an Electronics and Communication Engineer
 
@@ -22,7 +18,7 @@
 
 👻 Tell me about conspiracy theories
 
-<!-- 💬 Ask me about  -->
+💬 Ask me about MCU
 
 <!-- ⚡️ Fun fact ... We live in a generation where we don't judge a book by it's cover anymore, we judge a video by it's thumbnail -->
 
@@ -70,18 +66,14 @@
 
 </div>
 
-<!-- PROFILE STATS (INCLUDE PVT) & ICONS -->
-<!-- TOP LANGUAGES (EXCLUDE SOME REPOS BY COMMAS) -->
+<div id="stats">
+<h3>📊 Github stats</h3>
 
-<!-- <div id="stats">
-<h3>💹 Github stats</h3>
+<!-- ![Prithviraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=prtvi&show_icons=true&count_private=true) -->
 
-![Prithviraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=prtvi&show_icons=true&count_private=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prtvi&exclude_repo=prtvi.github.io)](https://github.com/prtvi)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prtvi&exclude_repo=prtvi.github.io)](https://github.com/prtvi)
-
-</div> -->
+</div>
 
 <div id="connect">
 
