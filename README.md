@@ -8,7 +8,7 @@
 
 💡 I'm an Electronics and Communication Engineer
 
-👨‍💻 I'm _currently_ collaborating on full stack implementation of Smart Agricare system
+<!-- 👨‍💻 I'm _currently_ collaborating on full stack implementation of Smart Agricare system -->
 
 🌱 I'm _currently_ learning Golang
 
@@ -30,7 +30,7 @@
 
 <div id="codein">
     
-<h3>👨‍💻 I code in</h3>
+<h2>👨‍💻 I code in</h2>
 
 | Python | JavaScript | Golang | C++ |
 | :----: | :--------: | :----: | :-: |
@@ -39,7 +39,7 @@
 
 <!-- <div id="projects">
 
-<h3>⚒ Some of my interesting projects</h3>
+<h2>⚒ Some of my interesting projects</h2>
 
 [![prtvi](https://github-readme-stats.vercel.app/api/pin/?username=prtvi&repo=sorting-visualizer)](https://github.com/prtvi/sorting-visualizer)
 
@@ -49,7 +49,7 @@
 
 <div id="tech">
     
-<h3>⚙ Technologies & Frameworks I have worked with</h3>
+<h2>⚙ Languages and Tools</h2>
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -63,21 +63,28 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 </div>
 
 <div id="stats">
-<h3>📊 Github stats</h3>
+
+<h2>📊 Github stats</h2>
 
 <!-- ![Prithviraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=prtvi&show_icons=true&count_private=true) -->
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prtvi&exclude_repo=prtvi.github.io)](https://github.com/prtvi)
+[![Prithviraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=prtvi&hide=contribs&show_icons=true&count_private=true)](https://github.com/prtvi)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prtvi&exclude_repo=prtvi.github.io,prtvi,portfolio&hide=jupyter%20notebook&layout=compact)](https://github.com/prtvi)
 
 </div>
 
 <div id="connect">
 
-<h3>🔗 Connect with me</h3>
+<h2>🔗 Connect with me</h2>
 
 <a href="https://www.linkedin.com/in/prithviraj-vernekar-5830161b2/">
     <img align="left" alt="Prithviraj Vernekar | Linkedin" height="30" src="assets/linkedin.svg" />
