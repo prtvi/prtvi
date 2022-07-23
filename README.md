@@ -1,6 +1,6 @@
 <div id="intro">
     
-<h1 align="center">Hi there, I'm Prithviraj <img height="40" src="assets/hi.gif"></h1>
+  <h1 align="center">Hi there, I'm Prithviraj <img height="40" src="assets/hi.gif"></h1>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 💡 I'm an Electronics and Communication Engineer
 
-<!-- 👨‍💻 I'm _currently_ collaborating on full stack implementation of Smart Agricare system -->
+  <!-- 👨‍💻 I'm _currently_ collaborating on full stack implementation of Smart Agricare system -->
 
 🌱 I'm _currently_ learning Golang
 
@@ -20,7 +20,7 @@
 
 💬 Ask me about MCU
 
-<!-- ⚡️ Fun fact ... We live in a generation where we don't judge a book by it's cover anymore, we judge a video by it's thumbnail -->
+  <!-- ⚡️ Fun fact ... We live in a generation where we don't judge a book by it's cover anymore, we judge a video by it's thumbnail -->
 
 📃 Check out my portfolio [here](https://prtvi.github.io/portfolio/)
 
@@ -30,7 +30,7 @@
 
 <div id="codein">
     
-<h2>👨‍💻 I code in</h2>
+<h3>👨‍💻 I code in</h3>
 
 | Python | JavaScript | Golang | C++ |
 | :----: | :--------: | :----: | :-: |
@@ -49,30 +49,31 @@
 
 <div id="tech">
     
-<h2>⚙ Languages and Tools</h2>
+<h3>⚙ Languages and Tools</h3>
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/tensorflow/tensorflow.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 </div>
 
 <div id="stats">
 
-<h2>📊 Github stats</h2>
+<h3>📊 Github stats</h3>
 
 <!-- ![Prithviraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=prtvi&show_icons=true&count_private=true) -->
 
@@ -84,19 +85,19 @@
 
 <div id="connect">
 
-<h2>🔗 Connect with me</h2>
+  <h3>🔗 Connect with me</h3>
 
-<a href="https://www.linkedin.com/in/prithviraj-vernekar-5830161b2/">
+  <a href="https://www.linkedin.com/in/prithviraj-vernekar-5830161b2/">
     <img align="left" alt="Prithviraj Vernekar | Linkedin" height="30" src="assets/linkedin.svg" />
-</a>
-<a href="mailto:prithvippv25@gmail.com">
-  <img align="left" alt="Prithviraj Vernekar | Gmail" height="30" src="assets/gmail.svg" />
-</a>
-<a href="https://twitter.com/prtviv?lang=en">
+  </a>
+  <a href="mailto:prithvippv25@gmail.com">
+    <img align="left" alt="Prithviraj Vernekar | Gmail" height="30" src="assets/gmail.svg" />
+  </a>
+  <a href="https://twitter.com/prtviv?lang=en">
     <img align="left" alt="Prithviraj Vernekar | Twitter" height="30" src="assets/twitter.svg" />
-</a>
-<a href="https://instagram.com/prtviv">
-  <img align="left" alt="prtviv | Instagram" height="30" src="assets/instagram.svg" />
-</a>
+  </a>
+  <a href="https://instagram.com/prtviv">
+    <img align="left" alt="prtviv | Instagram" height="30" src="assets/instagram.svg" />
+  </a>
 
 </div>
