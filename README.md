@@ -1,6 +1,6 @@
 <div id="intro">
     
-  <h1 align="center">Hi there, I'm Prithviraj <img height="40" src="assets/hi.gif"></h1>
+<h1 align="center">Hi there, I'm Prithviraj <img height="40" src="assets/hi.gif"></h1>
 
 </div>
 
@@ -37,15 +37,15 @@
 
 </div>
 
-<!-- <div id="projects">
+<div id="projects">
 
-<h2>⚒ Some of my interesting projects</h2>
+<h3>🏃‍♂️ My collaborations</h3>
 
-[![prtvi](https://github-readme-stats.vercel.app/api/pin/?username=prtvi&repo=sorting-visualizer)](https://github.com/prtvi/sorting-visualizer)
+[![prtvi](https://github-readme-stats.vercel.app/api/pin/?username=prtvi&repo=automation-using-hand-gestures)](https://github.com/prtvi/automation-using-hand-gestures)
+[![prtvi](https://github-readme-stats.vercel.app/api/pin/?username=gokulBalaG&repo=Smart-Agricare)](https://github.com/gokulBalaG/Smart-Agricare)
 
-[![prtvi](https://github-readme-stats.vercel.app/api/pin/?username=prtvi&repo=mso)](https://github.com/prtvi/mso)
 
-</div> -->
+</div>
 
 <div id="tech">
     
@@ -78,8 +78,7 @@
 <!-- ![Prithviraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=prtvi&show_icons=true&count_private=true) -->
 
 [![Prithviraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=prtvi&hide=contribs&show_icons=true&count_private=true)](https://github.com/prtvi)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prtvi&exclude_repo=prtvi.github.io,prtvi,portfolio&hide=jupyter%20notebook&layout=compact)](https://github.com/prtvi)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prtvi&exclude_repo=prtvi.github.io,prtvi,portfolio,learn-git&hide=jupyter%20notebook&layout=compact)](https://github.com/prtvi)
 
 </div>
 
