@@ -18,7 +18,7 @@
 
 👻 Tell me about conspiracy theories
 
-💬 Ask me about MCU
+💬 Ask me about the MCU
 
 📃 Check out my portfolio [here](https://prtvi.github.io/portfolio/)
 
@@ -48,11 +48,11 @@
     
 <h3>⚙ Languages and Tools</h3>
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
@@ -75,7 +75,7 @@
 <!-- ![Prithviraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=prtvi&show_icons=true&count_private=true) -->
 
 [![Prithviraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=prtvi&hide=contribs&show_icons=true&count_private=true)](https://github.com/prtvi)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prtvi&exclude_repo=prtvi.github.io,prtvi,portfolio,learn-git&hide=jupyter%20notebook&layout=compact)](https://github.com/prtvi)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prtvi&exclude_repo=prtvi.github.io,prtvi,portfolio,learn-git,arc&hide=jupyter%20notebook&layout=compact)](https://github.com/prtvi)
 
 </div>
 
