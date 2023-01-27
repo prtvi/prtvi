@@ -10,17 +10,15 @@
 
   <!-- 👨‍💻 I'm _currently_ collaborating on full stack implementation of Smart Agricare system -->
 
-🌱 I'm _currently_ learning Golang
+🌱 I'm _currently_ learning React and the MERN stack
 
 👨‍🔧 I'm looking to _collaborate_ on Web Development projects
 
-📚 I'm looking forward to _learn_ React, Arduino and Game Dev
+📚 I'm looking forward to _learn_ Arduino and Game Dev
 
 👻 Tell me about conspiracy theories
 
 💬 Ask me about MCU
-
-  <!-- ⚡️ Fun fact ... We live in a generation where we don't judge a book by it's cover anymore, we judge a video by it's thumbnail -->
 
 📃 Check out my portfolio [here](https://prtvi.github.io/portfolio/)
 
@@ -32,8 +30,8 @@
     
 <h3>👨‍💻 I code in</h3>
 
-| Python | JavaScript | Golang | C++ |
-| :----: | :--------: | :----: | :-: |
+| JavaScript | Golang | Python | C++ |
+| :--------: | :----: | :----: | :-: |
 
 </div>
 
@@ -43,7 +41,6 @@
 
 [![prtvi](https://github-readme-stats.vercel.app/api/pin/?username=prtvi&repo=automation-using-hand-gestures)](https://github.com/prtvi/automation-using-hand-gestures)
 [![prtvi](https://github-readme-stats.vercel.app/api/pin/?username=gokulBalaG&repo=Smart-Agricare)](https://github.com/gokulBalaG/Smart-Agricare)
-
 
 </div>
 
