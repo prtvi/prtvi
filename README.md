@@ -10,7 +10,7 @@
 
   <!-- 👨‍💻 I'm _currently_ collaborating on full stack implementation of Smart Agricare system -->
 
-🌱 I'm _currently_ learning React and the MERN stack
+🌱 I'm _currently_ learning the MERN stack
 
 👨‍🔧 I'm looking to _collaborate_ on Web Development projects
 
