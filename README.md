@@ -37,10 +37,14 @@
 
 <div id="projects">
 
-<h3>🏃‍♂️ My collaborations</h3>
+<h3>🧑‍🏫 My collaborations</h3>
 
-[![prtvi](https://github-readme-stats.vercel.app/api/pin/?username=prtvi&repo=automation-using-hand-gestures)](https://github.com/prtvi/automation-using-hand-gestures)
-[![prtvi](https://github-readme-stats.vercel.app/api/pin/?username=gokulBalaG&repo=Smart-Agricare)](https://github.com/gokulBalaG/Smart-Agricare)
+<a href="https://github.com/prtvi/automation-using-hand-gestures">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prtvi&repo=automation-using-hand-gestures" />
+</a>
+<a href="https://github.com/gokulBalaG/Smart-Agricare">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gokulBalaG&repo=Smart-Agricare" />
+</a>
 
 </div>
 
@@ -72,10 +76,9 @@
 
 <h3>📊 Github stats</h3>
 
-<!-- ![Prithviraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=prtvi&show_icons=true&count_private=true) -->
-
 [![Prithviraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=prtvi&hide=contribs&show_icons=true&count_private=true)](https://github.com/prtvi)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prtvi&exclude_repo=prtvi.github.io,prtvi,portfolio,learn-git,arc&hide=jupyter%20notebook&layout=compact)](https://github.com/prtvi)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prtvi&exclude_repo=prtvi.github.io,portfolio,learn-git,arc,courses,fyp-progress&hide=jupyter%20notebook&langs_count=5&layout=compact)](https://github.com/prtvi)
+[![GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com?user=prtvi)](https://github.com/prtvi)
 
 </div>
 
