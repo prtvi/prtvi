@@ -8,13 +8,11 @@
 
 💡 I'm an Electronics and Communication Engineer
 
-  <!-- 👨‍💻 I'm _currently_ collaborating on full stack implementation of Smart Agricare system -->
-
-🌱 I'm _currently_ learning the MERN stack
+🌱 I'm _currently_ learning advanced Golang
 
 👨‍🔧 I'm looking to _collaborate_ on Web Development projects
 
-📚 I'm looking forward to _learn_ Arduino and Game Dev
+📚 I'm looking forward to _learn_ Game Dev
 
 👻 Tell me about conspiracy theories
 
@@ -30,8 +28,8 @@
     
 <h3>👨‍💻 I code in</h3>
 
-| JavaScript | Golang | Python | C++ |
-| :--------: | :----: | :----: | :-: |
+| Golang | JavaScript | Python |
+| :----: | :--------: | :----: |
 
 </div>
 
