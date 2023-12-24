@@ -37,7 +37,7 @@
 
 <h3>🧑‍🏫 My collaborations</h3>
 
-Check out all of my projects [here](https://prtvi.github.io/allprojects.html).
+Check out all of my projects [here](https://prtvi.github.io/allprojects.html)
 
 <a href="https://github.com/prtvi/automation-using-hand-gestures">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prtvi&repo=automation-using-hand-gestures" />
