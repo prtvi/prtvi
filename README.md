@@ -35,6 +35,8 @@
 
 <div id="projects">
 
+Check out all of my projects [here](https://prtvi.github.io/allprojects.html).
+
 <h3>🧑‍🏫 My collaborations</h3>
 
 <a href="https://github.com/prtvi/automation-using-hand-gestures">
@@ -83,19 +85,19 @@
 
 <div id="connect">
 
-  <h3>🔗 Connect with me</h3>
+<h3>🔗 Connect with me</h3>
 
-  <a href="https://www.linkedin.com/in/prithviraj-vernekar-5830161b2/">
-    <img align="left" alt="Prithviraj Vernekar | Linkedin" height="30" src="assets/linkedin.svg" />
-  </a>
-  <a href="mailto:prithvippv25@gmail.com">
-    <img align="left" alt="Prithviraj Vernekar | Gmail" height="30" src="assets/gmail.svg" />
-  </a>
-  <a href="https://twitter.com/prtviv?lang=en">
-    <img align="left" alt="Prithviraj Vernekar | Twitter" height="30" src="assets/twitter.svg" />
-  </a>
-  <a href="https://instagram.com/prtviv">
-    <img align="left" alt="prtviv | Instagram" height="30" src="assets/instagram.svg" />
-  </a>
+<a href="https://www.linkedin.com/in/prithviraj-vernekar-5830161b2/">
+  <img align="left" alt="Prithviraj Vernekar | Linkedin" height="30" src="assets/linkedin.svg" />
+</a>
+<a href="mailto:prithvippv25@gmail.com">
+  <img align="left" alt="Prithviraj Vernekar | Gmail" height="30" src="assets/gmail.svg" />
+</a>
+<a href="https://twitter.com/prtviv?lang=en">
+  <img align="left" alt="Prithviraj Vernekar | Twitter" height="30" src="assets/twitter.svg" />
+</a>
+<a href="https://instagram.com/prtviv">
+  <img align="left" alt="prtviv | Instagram" height="30" src="assets/instagram.svg" />
+</a>
 
 </div>
