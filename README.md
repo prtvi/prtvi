@@ -10,13 +10,15 @@
 
 🌱 I'm _currently_ learning advanced Golang
 
-👨‍🔧 I'm looking to _collaborate_ on Web Development projects
+📚 I'm _currently_ learning Unity Game Dev
 
-📚 I'm looking forward to _learn_ Game Dev
+👨‍🔧 I'm looking to _collaborate_ on Web Development projects
 
 👻 Tell me about conspiracy theories
 
 <!-- 💬 Ask me about the MCU -->
+
+🚀 Check out all of my hosted projects [here](https://prtvi.github.io/allprojects.html)
 
 📃 Check out my portfolio [here](https://prtvi.github.io/portfolio/)
 
@@ -36,8 +38,6 @@
 <div id="projects">
 
 <h3>🧑‍🏫 My collaborations</h3>
-
-Check out all of my projects [here](https://prtvi.github.io/allprojects.html)
 
 <a href="https://github.com/prtvi/automation-using-hand-gestures">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prtvi&repo=automation-using-hand-gestures" />
