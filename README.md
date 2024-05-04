@@ -8,17 +8,19 @@
 
 💡 I'm an Electronics and Communication Engineer
 
-🌱 I'm _currently_ learning advanced Golang
+🌱 I'm currently learning advanced Golang
 
-📚 I'm _currently_ learning Unity Game Dev
+🏎️ I collect _Hot Wheels_, check out my collection [here](https://hotwheeeels.netlify.app)
 
-👨‍🔧 I'm looking to _collaborate_ on Web Development projects
+<!-- 📚 I'm _currently_ learning Unity Game Dev -->
+
+👨‍🔧 I'm looking to collaborate on Web Development projects
 
 👻 Tell me about conspiracy theories
 
 <!-- 💬 Ask me about the MCU -->
 
-🚀 Check out all of my hosted projects [here](https://prtvi.github.io/allprojects.html)
+🚀 Check out all of my projects [here](https://prtvi.github.io/allprojects.html)
 
 📃 Check out my portfolio [here](https://prtvi.github.io/portfolio/)
 
@@ -87,17 +89,17 @@
 
 <h3>🔗 Connect with me</h3>
 
-<a href="https://www.linkedin.com/in/prithviraj-vernekar-5830161b2/">
-  <img align="left" alt="Prithviraj Vernekar | Linkedin" height="30" src="assets/linkedin.svg" />
-</a>
 <a href="mailto:prithvippv25@gmail.com">
   <img align="left" alt="Prithviraj Vernekar | Gmail" height="30" src="assets/gmail.svg" />
 </a>
-<a href="https://twitter.com/prtviv?lang=en">
+<a href="https://www.linkedin.com/in/prithviraj-vernekar-5830161b2/">
+  <img align="left" alt="Prithviraj Vernekar | Linkedin" height="30" src="assets/linkedin.svg" />
+</a>
+<!-- <a href="https://twitter.com/prtviv?lang=en">
   <img align="left" alt="Prithviraj Vernekar | Twitter" height="30" src="assets/twitter.svg" />
 </a>
 <a href="https://instagram.com/prtviv">
   <img align="left" alt="prtviv | Instagram" height="30" src="assets/instagram.svg" />
-</a>
+</a> -->
 
 </div>
