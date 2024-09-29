@@ -10,7 +10,7 @@
 
 🌱 I'm currently learning advanced Golang
 
-🏎️ I collect _Hot Wheels_, check out my collection [here](https://hotwheeeels.netlify.app)
+🏎️ I collect _Hot Wheels_, check out my collection [here](https://hotwheeeels.netlify.app/?src=gbioreadme)
 
 <!-- 📚 I'm _currently_ learning Unity Game Dev -->
 
