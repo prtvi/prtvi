@@ -89,7 +89,7 @@
 
 <h3>🔗 Connect with me</h3>
 
-<a href="mailto:prithvippv25@gmail.com">
+<a href="mailto:prithvirajvernekar5@gmail.com">
   <img align="left" alt="Prithviraj Vernekar | Gmail" height="30" src="assets/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/prithviraj-vernekar-5830161b2/">
