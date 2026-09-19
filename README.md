@@ -20,7 +20,7 @@
 
 <!-- 💬 Ask me about the MCU -->
 
-🚀 Check out all of my projects [here](https://prtvi.github.io/allprojects.html)
+🚀 Check out all of my projects [here](https://prtvi.github.io/portfolio/p/)
 
 📃 Check out my portfolio [here](https://prtvi.github.io/portfolio/)
 
